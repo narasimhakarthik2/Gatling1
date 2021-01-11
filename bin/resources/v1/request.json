@@ -1,0 +1,7 @@
+{
+    "hashFunction": "sha-512",
+    "reqType": "Receipt-i",
+    "source": "EMT",
+    "timeStampProtocol": "RFC3161_TSS",
+    "hashValue": "SSl/4Dp8xrh9mvykzzZuKRFn21R7BP6xySlaeL359aGp6DUxcztm0PrseCjvRiwgNnielZGvQXAyqlTvzuT/4w=="
+    }
