@@ -1,0 +1,14 @@
+[
+    {
+        "Duration": 5,
+        "Users": 50,
+        "UsersRampUpDuration": 0,
+        "Items": 1,
+        "Version": "v1",
+        "Endpoint": "/api/v1/tax/determine",
+        "URL": "https://tax-det-client.cfapps.us20.hana.ondemand.com", 
+        "Token": "",
+        "Req/m": 5000,
+        "ReqRampUpDuration": 0
+    }
+]

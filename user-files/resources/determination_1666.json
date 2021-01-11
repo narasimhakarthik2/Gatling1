@@ -1,0 +1,13 @@
+[
+    {
+        "Duration": 1,
+        "Users": 50,
+        "UsersRampUpDuration": 0,
+        "Version": "v1",
+        "Endpoint": "",
+        "URL": "https://qcj7fszheb.execute-api.us-west-2.amazonaws.com",
+        "Token": "",
+        "Req/m": 100,
+        "ReqRampUpDuration": 0
+    }
+]
